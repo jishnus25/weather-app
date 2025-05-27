@@ -12,10 +12,10 @@ This is a simple and responsive Weather App built using **React** and the **Open
 ## 🖼️ Screenshots
 
 ### 🔍 Search Functionality
-![Search Screenshot](public/screenshots/2.png)
+![Search Screenshot](public/screenshots/3.png)
 
 ### 🌦️ Weather Display
-![Weather UI](public/screenshots/3.png)
+![Weather UI](public/screenshots/2.png)
 
 ## 🔧 Tech Stack
 
