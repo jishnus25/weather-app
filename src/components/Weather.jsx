@@ -33,7 +33,8 @@ const Weather = () => {
     setLoading(true);
     setError('');
     try {
-    const URL = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${import.meta.env.VITE_API_KEY}`;
+   const URL = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units=metric&appid=${import.meta.env.VITE_API_KEY}`;
+
   
       console.log(URL);
       
